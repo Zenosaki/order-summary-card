@@ -8,7 +8,7 @@ export default function App() {
       <main>
         <div className="Main-Img"></div>
         <div className="Card-Content">
-          <h2>Order Summary</h2>
+          <h1>Order Summary</h1>
           <p>You can now listen to millions of songs, audiobooks, and podcasts on any device  anywhere you like!</p>
           <div className="plan-Selection">
             <div className='P1'>
